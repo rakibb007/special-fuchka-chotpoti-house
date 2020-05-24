@@ -5,7 +5,7 @@
 		    </head>
 			
 			
-			    
+			<body>    
 				 <p align="center"> <img src="Special Chotpoti & Fuchka House.jpg"> </p>
 				 
 				<p align="center"> <a href="https://www.foodpanda.com.bd/restaurant/u8np/special-chotpoti"  target="blank"> Buy to Click Here </a> </p>
@@ -15,7 +15,7 @@
 				
 				<p align="center"> <img src="foodpanda.jpg"> </p>
 				 
-		    
+		    </body>
 			
 			
       
