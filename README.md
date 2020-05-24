@@ -4,7 +4,7 @@
 				 
 		    </head>
 			
-			<body>
+			
 			    
 				 <p align="center"> <img src="Special Chotpoti & Fuchka House.jpg"> </p>
 				 
