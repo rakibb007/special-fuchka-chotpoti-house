@@ -17,7 +17,7 @@
 				<p align="center"> এবং ঘরে থেকে অর্ডার করুন আর উপভোগ করুন টেস্টটি স্পাইসি চটপটি আর ফুচকা ।  </p> <br/>
 				
 				<p align="center"> <img src="foodpanda.jpg"> </p>
-				
+				 
 		    </body>
 			
 </html>
