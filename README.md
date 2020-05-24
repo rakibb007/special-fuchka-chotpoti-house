@@ -1,7 +1,4 @@
-
-<html lang="en">
-
-            <head>
+         <head>
 			     <meta charset="utf-8">
 				 <title> Special Chotpoti & Fuchka House </title>
 				 
