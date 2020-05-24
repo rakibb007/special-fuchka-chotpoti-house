@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
             <head>
@@ -18,8 +18,7 @@
 				
 				<p align="center"> <img src="foodpanda.jpg"> </p>
 				 
-		    </body>
+		    
 			
-</html>
-				
+			
       
